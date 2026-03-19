@@ -1,0 +1,18 @@
+# Credentials & secrets
+credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OpenClaw workspace state
+.openclaw/workspace-state.json
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+logs/
